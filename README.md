@@ -1,16 +1,33 @@
-### Hi there 👋
+Hello, World! 👋 I'm Everlyne Akinyi
+ABOUT ME
 
-<!--
-**evahaudi/evahaudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a dedicated Full Stack Software Engineer passionate about crafting meaningful and impactful software solutions. With a blend of creativity and technical expertise, I thrive in creating user-centric applications that leave a mark.
 
-Here are some ideas to get you started:
+WHAT I'M UP TO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently working on: Building an ordering system that simulates how a restaurant works to streamline expertise in software engineering goal.
+🌱 Currently learning: Deep diving into [technology/concept/language] to broaden my skill set and stay updated.
+
+TECH STACK
+Languages: Python, Java, c, javascript, CSS, tailwind, bootsrap, HTML,,,,,
+Frameworks/Libraries: Django, Spring Boot, Flask, angular, ReactJs,Vue,
+Databases:Oracle, MySQL, Postgress
+
+LETS CONNECTS VIA:
+📫 Reach me at: evahaudi2354@gmail.com
+🌐 Portfolio: https://everlyneakinyiportfolio.netlify.app/
+🤝 LinkedIn: https://www.linkedin.com/in/everlyne-akinyi-90683a1b5/
+
+
+FUN FACT:
+I believe in the power of a good cup of coffee ☕ to spark creativity during coding sessions!
+
+Feel free to explore my repositories and connect with me. Let's collaborate, innovate, and make a positive impact together in the tech space!
+
+
+
+
+
+
+
+
