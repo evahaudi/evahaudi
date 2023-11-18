@@ -20,9 +20,9 @@ LETS CONNECTS VIA:
 
 
 FUN FACT:\
-##I believe in the power of a good cup of coffee ☕ to spark creativity during coding sessions!
+I believe in the power of a good cup of coffee ☕ to spark creativity during coding sessions!
 
-##Feel free to explore my repositories and connect with me. Let's collaborate, innovate, and make a positive impact together in the tech space!
+Feel free to explore my repositories and connect with me. Let's collaborate, innovate, and make a positive impact together in the tech space!
 
 
 
