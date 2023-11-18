@@ -16,13 +16,13 @@ Databases: Oracle, MySQL, Postgres\
 LETS CONNECTS VIA:
 📫 Reach me at: evahaudi2354@gmail.com
 🌐 Portfolio: https://everlyneakinyiportfolio.netlify.app/
-🤝 LinkedIn: https://www.linkedin.com/in/everlyne-akinyi-90683a1b5/\
+🤝 LinkedIn: https://www.linkedin.com/in/everlyne-akinyi-90683a1b5/
 
 
-FUN FACT:
-I believe in the power of a good cup of coffee ☕ to spark creativity during coding sessions!
+FUN FACT:\
+##I believe in the power of a good cup of coffee ☕ to spark creativity during coding sessions!
 
-Feel free to explore my repositories and connect with me. Let's collaborate, innovate, and make a positive impact together in the tech space!
+##Feel free to explore my repositories and connect with me. Let's collaborate, innovate, and make a positive impact together in the tech space!
 
 
 
