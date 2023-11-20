@@ -7,9 +7,9 @@
 <p>🌱 Currently learning: Deep diving into [technology/concept/language] to broaden my skill set and stay updated.</p>
 
 <h2>TECH STACK</h2>
-<p>Languages: Python, Java, c, javascript, CSS, tailwind, bootstrap, HTML,,,,,</p>
+<ol<p>Languages: Python, Java, c, javascript, CSS, tailwind, bootstrap, HTML,,,,,</p>
 <p>Frameworks/Libraries: Django, Spring Boot, Flask, angular, ReactJs, Vue,</p>
-<p>Databases: Oracle, MySQL, Postgres</p>
+<p>Databases: Oracle, MySQL, Postgres</p></ol>
 
 <h2>LETS CONNECTS VIA:</h2>
 <p>📫 Reach me at: evahaudi2354@gmail.com</p>
