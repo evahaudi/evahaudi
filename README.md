@@ -1,5 +1,5 @@
-<h1>Hello, World! 👋 I'm Everlyne Akinyi</h1>h1>
-<h1>ABOUT ME</h1>
+<h1>Hello, World! 👋 I'm Everlyne Akinyi</h1>
+<h2>ABOUT ME</h2>
 <p>I'm a dedicated Full Stack Software Engineer passionate about crafting meaningful and impactful software solutions. With a blend of creativity and technical expertise, I thrive in creating user-centric applications that leave a mark.</p>
 
 <h>WHAT I'M UP TO<h1/>
