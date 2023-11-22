@@ -4,8 +4,8 @@
 
 <h2>WHAT I'M UP TO<h2/>
 <ol>
-<p>🔭 Currently working on Building an ordering system that simulates how a restaurant works to streamline expertise in software engineering goals.</p>
-<p>🌱 Currently learning: Deep diving into [technology/concept/language] to broaden my skill set and stay updated.</p>
+-<p>🔭 Currently working on Building an ordering system that simulates how a restaurant works to streamline expertise in software engineering goals.</p>
+-<p>🌱 Currently learning: Deep diving into [technology/concept/language] to broaden my skill set and stay updated.</p>
 </ol>
 
 <h2>TECH STACK</h2>
