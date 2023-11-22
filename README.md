@@ -3,10 +3,9 @@
 <p>I'm a dedicated Full Stack Software Engineer passionate about crafting meaningful and impactful software solutions. With a blend of creativity and technical expertise, I thrive in creating user-centric applications that leave a mark.</p>
 
 <h2>WHAT I'M UP TO<h2/>
-<ol>
--<p>🔭 Currently working on Building an ordering system that simulates how a restaurant works to streamline expertise in software engineering goals.</p>
--<p>🌱 Currently learning: Deep diving into [technology/concept/language] to broaden my skill set and stay updated.</p>
-</ol>
+
+- 🔭 Currently working on Building an ordering system that simulates how a restaurant works to streamline expertise in software engineering goals.
+- 🌱 Currently learning: Deep diving into [technology/concept/language] to broaden my skill set and stay updated.
 
 <h2>TECH STACK</h2>
 <ol>
