@@ -3,16 +3,16 @@
 <p>I'm a dedicated Full Stack Software Engineer passionate about crafting meaningful and impactful software solutions. With a blend of creativity and technical expertise, I thrive in creating user-centric applications that leave a mark.</p>
 
 <h2>WHAT I'M UP TO<h2/>
-<p>🔭 Currently working on: Building an ordering system that simulates how a restaurant works to streamline expertise in software engineering goals.</p>
+<p>🔭 Currently working on Building an ordering system that simulates how a restaurant works to streamline expertise in software engineering goals.</p>
 <p>🌱 Currently learning: Deep diving into [technology/concept/language] to broaden my skill set and stay updated.</p>
 
 <h2>TECH STACK</h2>
-<ol<p>Languages: Python, Java, c, javascript, CSS, tailwind, bootstrap, HTML,,,,,</p>
+<ol<p>Languages: Python, Java, c, javascript, CSS, tailwind, bootstrap, HTML, </p>
 <p>Frameworks/Libraries: Django, Spring Boot, Flask, angular, ReactJs, Vue,</p>
 <p>Databases: Oracle, MySQL, Postgres</p></ol>
 
 <h2>LETS CONNECTS VIA:</h2>
-<p>📫 Reach me at: evahaudi2354@gmail.com</p>
+<p>📫 evahaudi2354@gmail.com</p>
 <p>🌐 Portfolio: https://everlyneakinyiportfolio.netlify.app</p>
 <p>🤝 LinkedIn: https://www.linkedin.com/in/everlyne-akinyi-90683a1b5</p>
 
